@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     description: "Premium auto detailing services in Arizona",
     images: ["/images/logo.png"],
   },
-    generator: 'v0.app'
+    generator: 'The Linkage Digital'
 }
 
 export default function RootLayout({
